@@ -1,1 +1,1 @@
-# Capstone Poject 1- Video Game Analysis
+# Capstone Poject 2- Video Game Analysis
